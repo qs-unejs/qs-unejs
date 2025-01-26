@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UnejsSubashi
+- 👋 Hi, I’m @
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML/CSS/JS
 - ⚡ Fun fact: I'm studying in Qemal Stafa.
